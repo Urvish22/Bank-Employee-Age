@@ -4,3 +4,8 @@ The main objective of this project is to analyze the age data of bank employees.
 To understand the age distribution of employees across all bank departments.
 To use data analysis to identify any potential correlations between an employee's age and other factors, such as performance, experience, or department.
 To provide data-driven insights based on this demographic data to support the bank's workforce planning and HR strategy.
+## datasets link
+* [Cleaned Bank Dataset](./Bank_dataset_Clean.csv)
+* [Linear Regression Results](./Weka_LinearRegression_Result.txt)
+* [Project Dashboard Image](./image.png)
+
